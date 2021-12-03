@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Sancreek&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
+.card{
+    margin-top: 150px;
+    z-index: 1000;
+    background: transparent;
+    border: none;
+    color: #fff;
+}
+.btn{
+    border-radius: 25px;
+    opacity: 0.5;
+}
+.unfixed{
+    font-family: 'Rubik Beastly', cursive;
+    
+}
+.fixed{
+    font-family: 'Sancreek', cursive;
+}
+
